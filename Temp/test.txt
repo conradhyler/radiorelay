@@ -1,0 +1,12 @@
+**************
+This is a Test
+**************
+Interface Card
+Model Name	UB-E03
+MAC Address	0026AB7CB43B
+Hardware Version	03.00
+Software Version	01.02
+**************
+This is a Test
+**************
+^]VB0^L

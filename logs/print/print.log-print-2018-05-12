@@ -1,0 +1,346 @@
+--start file--
+--start--
+
+---end---
+--start--
+==============================
+Test
+==============================
+This is a Test only
+==============================
+Test
+==============================
+
+
+VB0
+---end---
+--start--
+public
+CAL FIRE - Monte Vista
+______________________________________________________________
+
+Description:     MEDICAL
+
+Location:        RJ DONOVAN PRISON @ 480 ALTA RD ,OTAY_MESA 
+
+Loc Cmt:         TTA// SZ //HEAD TRAUMA
+
+Remarks: ext#7075
+
+Remarks: Medical Case #: 18002979 has been aborted. Abort text: 5. Custodial Institution.
+
+Remarks: From SND:
+[8] [Geographic Area: 300 ALTA RD] [Low] [FD] TRAUMA CATCHMENT AREA - MERCY
+
+Remarks: From SND:
+Incident number for CASND: FMSC181193
+
+TRK38 M38 
+
+Low X Street:     KUEBLER RANCH RD 
+
+High X Street:    RJD ACCESS RD 
+
+Map:             1332_C_7/0536C
+
+X: -116 55.1407  Y: 32 34.8108 
+
+Response Area:   A11B  City: OTAY_MESA   DPA: CASDF 
+
+Incident #:      2018007082     Incident Name:   RJ DONOVAN PRISON OTA 419 
+
+Date/Time:       11-May-2018/13:23:09 
+
+Call Source:     911 
+
+______________________________________________________________
+ACCESS POINT INFORMATION 
+
+  Access Point:   
+
+  Map:   City:  
+
+  Low X:   
+
+  High X:  
+
+
+******** No Location Information Present
+******** End of Location Information
+ ==============================
+VB0
+---end---
+--start--
+public
+CAL FIRE - Monte Vista
+______________________________________________________________
+
+Description:     MEDICAL TRANSPORT- - BLS
+
+Location:        RJ DONOVAN PRISON @ 480 ALTA RD ,OTAY_MESA 
+
+Loc Cmt:         TTA//INFECTION
+
+M238 
+
+Low X Street:     KUEBLER RANCH RD 
+
+High X Street:    RJD ACCESS RD 
+
+Map:             1332_C_7/0536C
+
+X: -116 55.1407  Y: 32 34.8108 
+
+Response Area:   A11B  City: OTAY_MESA   DPA: CASDF 
+
+Incident #:      2018007083     Incident Name:   RJ DONOVAN PRISON OTA 420 
+
+Date/Time:       11-May-2018/13:32:42 
+
+Call Source:     911 
+
+______________________________________________________________
+ACCESS POINT INFORMATION 
+
+  Access Point:   
+
+  Map:   City:  
+
+  Low X:   
+
+  High X:  
+
+
+******** No Location Information Present
+******** End of Location Information
+ ==============================
+VB0
+---end---
+--start--
+public
+CLOSE: Inc# 007083;
+Incident Date: 11-May-2018/13:32:42;
+Incident Name: RJ DONOVAN PRISON OTA 420;
+CASDF;
+Desc: MEDICAL TRANSPORT- - BLS;
+Loc: RJ DONOVAN PRISON @ 480 ALTA RD ,OTAY_MESA ;
+FRP: ;
+M238 DSP: 5-11-13:32:42; 
+ ENR: 5-11-13:33:46; 
+ ONS: 5-11-13:49:36; 
+ TRN: 5-11-14:05:20; 
+ TAR: 5-11-15:10:21; 
+ RTQ: 5-11-16:02:28; 
+ AOR: 5-11-16:43:02; 
+
+
+
+
+==============================
+VB0
+---end---
+--start--
+public
+CLOSE: Inc# 007082;
+Incident Date: 11-May-2018/13:23:09;
+Incident Name: RJ DONOVAN PRISON OTA 419;
+CASDF;
+Desc: MEDICAL;
+Loc: RJ DONOVAN PRISON @ 480 ALTA RD ,OTAY_MESA ;
+FRP: JOHNSON, NICK E;
+Remarks: ext#7075;
+Remarks: Medical Case #: 18002979 has been aborted. Abort text: 5. Custodial Institution.;
+Remarks: From SND:
+[8] [Geographic Area: 300 ALTA RD] [Low] [FD] TRAUMA CATCHMENT AREA - MERCY;
+Remarks: From SND:
+Incident number for CASND: FMSC181193;
+Remarks: From SND:
+SDFR has closed the call.;
+M38 DSP: 5-11-13:23:09; 
+ ENR: 5-11-13:24:40; 
+ ONS: 5-11-13:28:53; 
+ TRN: 5-11-14:00:30; 
+ TAR: 5-11-14:46:36; 
+ RTQ: 5-11-16:36:51; 
+ AIQ: 5-11-17:18:12; 
+
+
+
+
+==============================
+VB0
+---end---
+--start--
+public
+CAL FIRE - Monte Vista
+______________________________________________________________
+
+Description:     MEDICAL
+
+Location:        RJ DONOVAN PRISON @ 480 ALTA RD ,OTAY_MESA 
+
+Loc Cmt:         TTA: SICK
+
+TRK38 M38 
+
+Low X Street:     KUEBLER RANCH RD 
+
+High X Street:    RJD ACCESS RD 
+
+Map:             1332_C_7/0536C
+
+X: -116 55.1407  Y: 32 34.8108 
+
+Response Area:   A11B  City: OTAY_MESA   DPA: CASDF 
+
+Incident #:      2018007102     Incident Name:   RJ DONOVAN PRISON OTA 422 
+
+Date/Time:       12-May-2018/06:24:42 
+
+Call Source:     911 
+
+______________________________________________________________
+ACCESS POINT INFORMATION 
+
+  Access Point:   
+
+  Map:   City:  
+
+  Low X:   
+
+  High X:  
+
+
+******** No Location Information Present
+******** End of Location Information
+ ==============================
+VB0
+---end---
+--start--
+lp
+---end---
+--start--
+gqw7
+
+gqw7
+
+---end---
+--start--
+£üÄ?D‡íêFú¯»Vô[†∆ Gc¸=#<{á2[®ŒdÛx¿¿
+9876àáÜÖ¿¿5Ñ¿¿	3210öôòóEDCB¿¿/ñA¿¿¿¿¿¿¿¿
+	ˇ
+---end---
+--start--
+GNUTELLA CONNECT/0.4
+
+---end---
+--start--
+„?∫ª3o∂M[πÑÔ«6qgdonkeyclient;6
+---end---
+--start--
+GET / HTTP/1.0
+
+---end---
+--start--
+
+---end---
+--start--
+
+---end---
+--start--
+GET / HTTP/1.0
+
+---end---
+--start--
+GET / HTTP/1.0
+Accept-Encoding: gzip
+Accept-Language: en
+Accept-Charset: iso-8859-1,*,utf-8
+
+---end---
+--start--
+
+---end---
+--start--
+<?xml version="1.0"?>
+<stream:stream xmlns:stream="http://etherx.jabber.org/streams" xmlns="jabber:client" to="172.23.64.72">
+---end---
+--start--
+JRMIK
+---end---
+--start--
+stats
+---end---
+--start--
+ªª
+---end---
+--start--
+Z[ˇˇˇˇZB	@–?@pI4216P*Rr	pdbmsrv(?¨(dbm_version     
+---end---
+--start--
+INFO
+---end---
+--start--
+4
+---end---
+--start--
+
+---end---
+--start--
+GET / HTTP/1.0
+
+---end---
+--start--
+GET / HTTP/1.0
+Accept-Encoding: gzip
+Accept-Language: en
+Accept-Charset: iso-8859-1,*,utf-8
+
+---end---
+--start--
+HEAD / HTTP/1.0
+
+---end---
+--start--
+
+---end---
+--start--
+ClientHello
+EndMessage
+---end---
+--start--
+≥a“/
+---end---
+--start--
+GET /49sl3wr HTTP/1.0
+
+---end---
+--start--
+public
+CLOSE: Inc# 007102;
+Incident Date: 12-May-2018/06:24:42;
+Incident Name: RJ DONOVAN PRISON OTA 422;
+CASDF;
+Desc: MEDICAL;
+Loc: RJ DONOVAN PRISON @ 480 ALTA RD ,OTAY_MESA ;
+FRP: JOHNSON, NICK E;
+Remarks: From SND:
+[7] [Geographic Area: 300 ALTA RD] [Low] [FD] TRAUMA CATCHMENT AREA - MERCY;
+Remarks: From SND:
+Incident number for CASND: FMSC181198;
+Remarks: Medical Case #: 18002987 has been aborted. Abort text: 5. Custodial Institution.;
+M38 DSP: 5-12-06:24:42; 
+ ACK: 5-12-06:26:09; 
+ ENR: 5-12-06:31:37; 
+ ONS: 5-12-06:31:54; 
+ TRN: 5-12-06:56:15; 
+ TAR: 5-12-07:34:18; 
+ RTQ: 5-12-08:02:03; 
+ AIQ: 5-12-08:24:27; 
+
+
+
+
+==============================
+VB0
+---end---
