@@ -27,7 +27,8 @@ then
 		# then echo -e "$curTime -- Contained Abort -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
 		# else
 		echo -e "$curTime -- Alarm Triggered -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/logs/match/match.log
-		/usr/bin/python /home/pi/Scripts/ce1d/ce1d.py "$incoming2" &
+		# /usr/bin/python /home/pi/Scripts/ce1d/ce1d.py "$incoming2" &
+		/usr/bin/python /home/pi/Scripts/ce1d/pushover.py "$incoming2" &
 		# fi
 	else echo -e "$curTime -- Time over 100 s-- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/logs/match/match.log
 	fi
