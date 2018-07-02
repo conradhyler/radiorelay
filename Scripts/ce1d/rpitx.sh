@@ -1,0 +1,1 @@
+sudo ./rpitx -m RF -i alert.ft -f 151190 -l

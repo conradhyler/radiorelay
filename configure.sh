@@ -82,10 +82,16 @@ case $CHOICE in
 		/bin/bash
 		;;
 	7)
-	tail -f -n 50 /home/pi/logs/match/match.log
+	clear
+	tail -f -n 50 /home/pi/logs/match/match.log &
+	read -sn 1
+	kill %1
 	;;
 	8)
-	tail -f -n 55 /home/pi/logs/print/print.log
+	clear
+	tail -f -n 55 /home/pi/logs/print/print.log &
+	read -sn 1
+	kill %1
 	;;
 	9)
 	sudo reboot
